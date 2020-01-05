@@ -1,0 +1,6 @@
+2020-01-05 19:07:10 INFO  ClasseTestLogger:14 - la voiture est rouge
+2020-01-05 19:07:10 INFO  ClasseTestLogger:19 - Test une info
+2020-01-05 19:07:10 ERROR ClasseTestLogger:20 - Test une erreur
+2020-01-05 19:07:10 WARN  ClasseTestLogger:21 - Test d'un warn
+2020-01-05 19:07:10 DEBUG ClasseTestLogger:22 - Test d'un debug
+2020-01-05 19:07:10 TRACE ClasseTestLogger:23 - Test d'un trace
