@@ -18,6 +18,7 @@
             <PatternLayout pattern="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n" />
         </Console>
     </Appenders>
+    
     <Loggers>
         <Root level="warn" additivity="false">
             <appender-ref ref="console" />
